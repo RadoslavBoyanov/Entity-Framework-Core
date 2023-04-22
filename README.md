@@ -7,3 +7,4 @@ Skills I have acquired:
 - Retrieve data using LINQ queries
 - Working with a database using an ORM
 - Work with different data formats - XML, JSON
+![1Entity Framework Core - February 2023 - Certificate](https://user-images.githubusercontent.com/106109182/233775698-9ed9e391-3d61-4fd8-b362-d67cd0392b4c.jpg)
